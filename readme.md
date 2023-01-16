@@ -1,3 +1,22 @@
+## 1. Notebooks :
+
+- GNOD 2, recommender.ipynb : GNOD of the week lab and the recommender 
+
+- GNOD v2, recommender improved.ipynb  : GNOD with some improvement in the code (added functions, and recommendations improvments)
+
+- web_one_page.ipynb  only the top 100 songs prototype1.
+
+
+## 2. ignore *.csv
+
+
+
+
+
+
+
+
+
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Web Scraping Single Page
